@@ -1,6 +1,6 @@
-# Long-Sequence Recommendation Models Need Decoupled Embeddings
+# Long-Sequence Recommendation Models Need Decoupled Embeddings (ICLR 2025)
 
-This repository provides the official implementation of **DARE: Decoupled Attention and Representation Embedding model**.
+This repository provides the official implementation of **DARE: Decoupled Attention and Representation Embedding model** in our [paper](https://arxiv.org/abs/2410.02604).
 
 ## 🔥 News
 
